@@ -1,19 +1,24 @@
 
+
+# Background
+Food is one of the most important things for humans. In order to get enough nutrition supply, humans must get enough good quality food. But, there are still existing problems related to the food supply. One of them comes from the farmers' side that can't always be precise and fast enough to identify their crop conditions so they sometimes can't hinder themselves from getting a lack of quantity and quality of their harvest, which can lead to a lack of food supply. The other one comes from us. According to data published by the Ministry of Environment and Forestry, in 2022, about 41.47% of overall national waste
+comes from food leftovers [1]. Furthermore, about 39.95% of it comes from households, which is no other than ourselves. One type of food leftovers comes from fruits that are not suitable for consumption; usually because of already rotten conditions [2]. One of the reasons for that comes from a lack of human knowledge on recognizing their stored fruits' ripeness level. These problems need to be tackled with such a detection system that can make the farmers' and individuals' life easier so that we can together manage our food supply properly.
+
 # Team Member
 
 <div align="center">
   
 Tabel 1. AgroVision Team Member
   
-|Bangkit Cohort ID|              Name    |Learning Path | Role |                        LinkedIn Profile                       | 
-|:-----------:|:------------------------:|:------------:|:-----:|:-------------------------------------------------------------:|
-| M169DSX0283 | Samatha Marhaendra Putra | Machine Learning | Project Manager, Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/sam-marhaendra/)       |
-| M169DKX3794 | Ahmad Habib Hasan Zein   | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/ahmad-habib-hasan-zein-88ab57216/)|
-| M037DSY3518 | Faudya Nurul Fatimah     | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/faudya-nurul-fatimah-9b730b269/)|
-| C038DSX2390 | Falih Budiman Baruna     | Cloud Computing  | Cloud Engineer | [LinkedIn](https://www.linkedin.com/in/falih-budiman-baruna-200702/)|
-| C372DSX0819 | Ridho Hery Winarto       | Cloud Computing  | Cloud Engineer | [LinkedIn](https://www.linkedin.com/in/ridho-hery-winarto-3a1b23219/)|
-| A304DKX3859 | Muhammad Fari Abiyyudhiya| Mobile Development (Android) | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/m-fari-abyd/)|
-  
+|Bangkit Cohort ID |           Name           |          Learning Path       |  Role |                        LinkedIn Profile                       | 
+|:----------------:|:------------------------:|:----------------------------:|:-----:|:-------------------------------------------------------------:|
+| A304DKX3859      | Muhammad Fari Abiyyudhiya| Mobile Development | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/m-fari-abyd/)|
+| C372DSX0819      | Ridho Hery Winarto       | Cloud Computing  | Cloud Engineer | [LinkedIn](https://www.linkedin.com/in/ridho-hery-winarto-3a1b23219/)|
+| C038DSX2390      | Falih Budiman Baruna     | Cloud Computing  | Cloud Engineer | [LinkedIn](https://www.linkedin.com/in/falih-budiman-baruna-200702/)|
+| M169DSX0283      | Samatha Marhaendra Putra | Machine Learning | Machine Learning Engineer, Project Manager | [LinkedIn](https://www.linkedin.com/in/sam-marhaendra/)       |
+| M169DKX3794      | Ahmad Habib Hasan Zein   | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/ahmad-habib-hasan-zein-88ab57216/)|
+| M037DSY3518      | Faudya Nurul Fatimah     | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/faudya-nurul-fatimah-9b730b269/)|
+
 </div>
 
 ## Job Description 
@@ -25,3 +30,7 @@ Our task is to create an App Engine instance to host a cloud service specificall
 
 ### Mobile Developer
 Our task involves designing the UI appearance in Figma, gathering the required libraries such as ImagePicker, implementing the UI design using Kotlin and Android Studio, and integrating APIs with Retrofit, ViewModel, and LiveData. Finally, we store offline-accessible data, such as user information and detection history, in SQLite and Room.
+
+# References
+[1] "Sistem Informasi pengelolaan sampah Nasional," SIPSN, https://sipsn.menlhk.go.id/sipsn/public/data/sumber.
+[2] Mita Defitri, "5 Jenis Sampah Organik: Bukan Sekadar Sisa Makanan!,"" Waste4Change, Aug. 24, 2022. https://waste4change.com/blog/jenis-sampah-organik-bukan-sekadar-sisa-makanan/.
