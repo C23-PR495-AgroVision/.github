@@ -21,23 +21,23 @@ Tabel 1. AgroVision Team Member
 
 </div>
 
-## Job Description 
-### Machine Learning Engineer 
+# Role Description 
+## Machine Learning Engineer 
 Machine Learning Engineer's main task is to do model development regarding image classification tasks on various objects that are related to plant crop disease, fruit ripeness, and vegetable ripeness cases. Several model development approaches like creating models from scratch, leveraging several transfer learning approaches, and doing image augmentation are used in order to get the best model for each object. The other responsibility is related to the model deployment part, where the Machine Learning Engineers need to save the models in the correct format and know how to use them so that they can be included in the API service that is created by the Backend Engineers.
 
-### Cloud Engineer
+## Cloud Engineer
 The Cloud Engineer's responsibility is to design, implement, and manage cloud infrastructure and services used for the project implementation. Cloud Engineers work closely with cross-functional teams to understand requirements, architect scalable cloud solutions, and ensure the optimal performance, security, and availability of cloud-based systems.
 
-### Backend Engineer
+## Backend Engineer
 The main responsibility of a Backend Engineer is to design, develop, and maintain the server-side components and infrastructure of software applications. A Backend Engineer focuses on building the logic and functionality that powers the application, ensuring its stability, performance, and scalability.
 
-### Android Developer
+## Android Developer
 Android Developer's responsibility involves gathering the required libraries such as ImagePicker, implementing the UI design using Kotlin and Android Studio, and utilizing libraries like Retrofit and CameraX that can be used for API integration, data handling, and overall functionality of the application, which results in a seamless user experience and efficient communication with the server.
 
-### UI/UX Designer
+## UI/UX Designer
 UI/UX Designer's responsibility is to create intuitive and visually appealing interfaces for digital products that provide an optimal user experience.
 
-### Project Manager
+## Project Manager
 The Project Manager's main task is to effectively plan, organize, and oversee the project implementation so that the project can be delivered on time, within budget, and meet the specified objectives with limited resources.
 
 # References
