@@ -33,4 +33,5 @@ Our task involves designing the UI appearance in Figma, gathering the required l
 
 # References
 [1] "Sistem Informasi pengelolaan sampah Nasional," SIPSN, https://sipsn.menlhk.go.id/sipsn/public/data/sumber.
+
 [2] Mita Defitri, "5 Jenis Sampah Organik: Bukan Sekadar Sisa Makanan!,"" Waste4Change, Aug. 24, 2022. https://waste4change.com/blog/jenis-sampah-organik-bukan-sekadar-sisa-makanan/.
