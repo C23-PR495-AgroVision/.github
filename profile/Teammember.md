@@ -10,9 +10,9 @@ Tabel 1. AgroVision Team Member
 | M169DSX0283 | Samatha Marhaendra Putra | Machine Learning | Project Manager, Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/sam-marhaendra/)       |
 | M169DKX3794 | Ahmad Habib Hasan Zein   | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/ahmad-habib-hasan-zein-88ab57216/)|
 | M037DSY3518 | Faudya Nurul Fatimah     | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/faudya-nurul-fatimah-9b730b269/)|
-| C038DSX2390 | Falih Budiman Baruna     | Cloud Computing  | Cloud Engineer | [LinkedID](https://www.linkedin.com/in/falih-budiman-baruna-200702/)|
-| C372DSX0819 | Ridho Hery Winarto       | Cloud Computing  | Cloud Engineer | [LinkedID](https://www.linkedin.com/in/ridho-hery-winarto-3a1b23219/)|
-| A304DKX3859 | Muhammad Fari Abiyyudhiya| Mobile Development (Android) | Mobile Developer | [LinkedID](https://www.linkedin.com/in/m-fari-abyd/)|
+| C038DSX2390 | Falih Budiman Baruna     | Cloud Computing  | Cloud Engineer | [LinkedIn](https://www.linkedin.com/in/falih-budiman-baruna-200702/)|
+| C372DSX0819 | Ridho Hery Winarto       | Cloud Computing  | Cloud Engineer | [LinkedIn](https://www.linkedin.com/in/ridho-hery-winarto-3a1b23219/)|
+| A304DKX3859 | Muhammad Fari Abiyyudhiya| Mobile Development (Android) | Mobile Developer | [LinkedIn](https://www.linkedin.com/in/m-fari-abyd/)|
   
 </div>
 
