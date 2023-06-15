@@ -29,7 +29,7 @@ Our task is to collect, review, and clean the open-source dataset we have gather
 Our task is to create an App Engine instance to host a cloud service specifically designed for training the model. We utilize object storage to store the dataset, implement a private API for image recognition, and integrate a third-party API for image classification. All of these steps are crucial to ensure the generation of accurate results for image classification.
 
 ### Mobile Developer
-Our task involves designing the UI appearance in Figma, gathering the required libraries such as ImagePicker, implementing the UI design using Kotlin and Android Studio, and integrating APIs with Retrofit, ViewModel, and LiveData. Finally, we store offline-accessible data, such as user information and detection history, in SQLite and Room.
+Our task involves designing the UI appearance in Figma, implementing the UI design using Kotlin and Android Studio, and utilizing libraries like Retrofit and CameraX. These libraries will enhance API integration, data handling, and overall functionality of the application, resulting in a seamless user experience and efficient communication with the server.
 
 # References
 [1] "Sistem Informasi pengelolaan sampah Nasional," SIPSN, https://sipsn.menlhk.go.id/sipsn/public/data/sumber.
