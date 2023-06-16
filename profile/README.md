@@ -34,7 +34,7 @@ The Cloud Engineer's responsibility is to design, implement, and manage cloud in
 The main responsibility of a Backend Engineer is to design, develop, and maintain the server-side components and infrastructure of software applications. A Backend Engineer focuses on building the logic and functionality that powers the application, ensuring its stability, performance, and scalability.
 
 ## Android Developer
-Android Developer's responsibility involves gathering the required libraries such as ImagePicker, implementing the UI design using Kotlin and Android Studio, and utilizing libraries like Retrofit and CameraX that can be used for API integration, data handling, and overall functionality of the application, which results in a seamless user experience and efficient communication with the server.
+As an Android Developer, our responsibility involves implementing UI designs, integrating libraries for efficient API communication and data handling, and ensuring a seamless user experience and effective server interaction in our task of designing and implementing the UI appearance using suitable tools and libraries to enhance the application's overall functionality.
 
 ## UI/UX Designer
 UI/UX Designer's responsibility is to create intuitive and visually appealing interfaces for digital products that provide an optimal user experience.
