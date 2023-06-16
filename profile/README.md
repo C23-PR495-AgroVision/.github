@@ -10,8 +10,8 @@ comes from food leftovers [[1]](https://sipsn.menlhk.go.id/sipsn/public/data/sum
   
 Tabel 1. AgroVision Team Member
   
-|Bangkit Cohort ID |        Full Name         |          Learning Path       |  Role |                        LinkedIn Profile                       | 
-|:----------------:|:------------------------:|:----------------------------:|:-----:|:-------------------------------------------------------------:|
+|Cohort ID |        Full Name         |          Learning Path       |  Role | LinkedIn Profile | 
+|:----------------:|------------------------|----------------------------|-----|:-------------------------------------------------------------:|
 | A304DKX3859      | Muhammad Fari Abiyyudhiya| Mobile Development | Android Developer, UI/UX Designer | [LinkedIn](https://www.linkedin.com/in/m-fari-abyd/)|
 | C372DSX0819      | Ridho Hery Winarto       | Cloud Computing  | Cloud Engineer, Backend Engineer | [LinkedIn](https://www.linkedin.com/in/ridho-hery-winarto-3a1b23219/)|
 | C038DSX2390      | Falih Budiman Baruna     | Cloud Computing  | Cloud Engineer, Backend Engineer | [LinkedIn](https://www.linkedin.com/in/falih-budiman-baruna-200702/)|
