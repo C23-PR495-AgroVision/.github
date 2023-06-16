@@ -12,11 +12,11 @@ Tabel 1. AgroVision Team Member
   
 |Cohort ID |        Full Name         |          Learning Path       |  Role | LinkedIn Profile | 
 |:----------------:|------------------------|----------------------------|-----|:-------------------------------------------------------------:|
-| A304DKX3859      | Muhammad Fari Abiyyudhiya| Mobile Development | Android Developer, UI/UX Designer | [LinkedIn](https://www.linkedin.com/in/m-fari-abyd/)|
-| C372DSX0819      | Ridho Hery Winarto       | Cloud Computing  | Cloud Engineer, Backend Engineer | [LinkedIn](https://www.linkedin.com/in/ridho-hery-winarto-3a1b23219/)|
-| C038DSX2390      | Falih Budiman Baruna     | Cloud Computing  | Cloud Engineer, Backend Engineer | [LinkedIn](https://www.linkedin.com/in/falih-budiman-baruna-200702/)|
-| M169DSX0283      | Samatha Marhaendra Putra | Machine Learning | Machine Learning Engineer, Backend Engineer, Project Manager | [LinkedIn](https://www.linkedin.com/in/sam-marhaendra/)       |
-| M169DKX3794      | Ahmad Habib Hasan Zein   | Machine Learning | Machine Learning Engineer, Backend Engineer | [LinkedIn](https://www.linkedin.com/in/ahmad-habib-hasan-zein-88ab57216/)|
+| A304DKX3859      | Muhammad Fari Abiyyudhiya| Mobile Development | Android Developer<br/>UI/UX Designer | [LinkedIn](https://www.linkedin.com/in/m-fari-abyd/)|
+| C372DSX0819      | Ridho Hery Winarto       | Cloud Computing  | Cloud Engineer<br/>Backend Engineer | [LinkedIn](https://www.linkedin.com/in/ridho-hery-winarto-3a1b23219/)|
+| C038DSX2390      | Falih Budiman Baruna     | Cloud Computing  | Cloud Engineer<br/>Backend Engineer | [LinkedIn](https://www.linkedin.com/in/falih-budiman-baruna-200702/)|
+| M169DSX0283      | Samatha Marhaendra Putra | Machine Learning | Machine Learning Engineer<br/>Backend Engineer<br/>Project Manager | [LinkedIn](https://www.linkedin.com/in/sam-marhaendra/)       |
+| M169DKX3794      | Ahmad Habib Hasan Zein   | Machine Learning | Machine Learning Engineer<br/>Backend Engineer | [LinkedIn](https://www.linkedin.com/in/ahmad-habib-hasan-zein-88ab57216/)|
 | M037DSY3518      | Faudya Nurul Fatimah     | Machine Learning | Machine Learning Engineer | [LinkedIn](https://www.linkedin.com/in/faudya-nurul-fatimah-9b730b269/)|
 
 </div>
